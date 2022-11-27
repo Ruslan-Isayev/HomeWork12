@@ -1168,7 +1168,7 @@ ul {
     margin-top: 23px;
 }
 
-.fb5{
+.fb5 {
     background-image: url(../Images/fb.png);
     position: absolute;
     margin-top: -20px;
@@ -1178,7 +1178,7 @@ ul {
     cursor: pointer;
 }
 
-.insta5{
+.insta5 {
     background-image: url(../Images/insta.png);
     position: absolute;
     margin-top: -20px;
@@ -1188,7 +1188,7 @@ ul {
     cursor: pointer;
 }
 
-.tt5{
+.tt5 {
     background-image: url(../Images/tt.png);
     position: absolute;
     margin-top: -18px;
@@ -1196,4 +1196,74 @@ ul {
     width: 23px;
     height: 18px;
     cursor: pointer;
+}
+
+@media only screen and (max-width: 1560px) {
+    .k15 {
+        margin-left: 18%;
+    }
+
+    .hc {
+        margin-left: 21%;
+    }
+
+    .k150 {
+        margin-left: 45%;
+    }
+
+    .mv {
+        margin-left: 45.5%;
+    }
+
+    .o15 {
+        margin-left: 67%;
+    }
+
+    .cw {
+        margin-left: 66.2%;
+    }
+
+    .o100 {
+        margin-left: 86.3%;
+    }
+
+    .tp {
+        margin-left: 86.3%;
+    }
+}
+
+@media only screen and (max-width: 1452px) {
+    .btn{
+        margin-left: 88%;
+    }
+
+    .vector{
+        margin-left: 95%;
+    }
+
+    .login{
+        margin-left: 84%;
+    }
+}
+
+@media only screen and (max-width: 1262px) {
+    .btn{
+        margin-left: 81%;
+    }
+
+    .vector{
+        margin-left: 88%;
+    }
+
+    .login{
+        margin-left: 77%;
+    }
+
+    /* .wbg, .jj, .pro, .fb, .insta, .tt{
+        margin-left: 18%;
+    } */
+
+    .wbg3{
+        margin-left: 80%;
+    }
 }
